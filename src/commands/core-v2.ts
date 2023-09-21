@@ -30,7 +30,7 @@ export default class CoreV2 extends Command {
 
   async run(): Promise<Result> {
     const {args, flags} = await this.parse(CoreV2)
-    this.log(`hello I am a CJS plugin from ${this.config.root}!`)
+    this.log(`hello I am an @oclif/core@v2 plugin from ${this.config.root}!`)
     return {args, flags}
   }
 }
