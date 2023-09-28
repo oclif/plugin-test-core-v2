@@ -1,3 +1,12 @@
+## [0.2.2](https://github.com/oclif/plugin-test-core-v2/compare/0.2.1...0.2.2) (2023-09-28)
+
+
+### Bug Fixes
+
+* **deps:** bump get-func-name from 2.0.0 to 2.0.2 ([2050317](https://github.com/oclif/plugin-test-core-v2/commit/205031761cd2ac18980476256d6a5badebd85c0a))
+
+
+
 ## [0.2.1](https://github.com/oclif/plugin-test-core-v2/compare/0.2.0...0.2.1) (2023-09-24)
 
 
