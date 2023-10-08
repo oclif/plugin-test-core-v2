@@ -1,3 +1,12 @@
+## [0.2.4](https://github.com/oclif/plugin-test-core-v2/compare/0.2.3...0.2.4) (2023-10-08)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/plugin-plugins from 3.8.0 to 3.8.4 ([9b365a1](https://github.com/oclif/plugin-test-core-v2/commit/9b365a162ff3e117a28f39b46bcb28b8b3ac6e67))
+
+
+
 ## [0.2.3](https://github.com/oclif/plugin-test-core-v2/compare/0.2.2...0.2.3) (2023-10-02)
 
 
