@@ -1,3 +1,12 @@
+## [0.2.11](https://github.com/oclif/plugin-test-core-v2/compare/0.2.10...0.2.11) (2024-04-14)
+
+
+### Bug Fixes
+
+* **deps:** bump @oclif/core from 2.15.0 to 2.16.0 ([#50](https://github.com/oclif/plugin-test-core-v2/issues/50)) ([e63a72c](https://github.com/oclif/plugin-test-core-v2/commit/e63a72c4b8aaf8af7987050fd738448dfbba143a))
+
+
+
 ## [0.2.10](https://github.com/oclif/plugin-test-core-v2/compare/0.2.9...0.2.10) (2024-04-11)
 
 
