@@ -1,3 +1,12 @@
+## [0.2.15](https://github.com/oclif/plugin-test-core-v2/compare/0.2.14...0.2.15) (2024-08-25)
+
+
+### Bug Fixes
+
+* **deps:** bump micromatch from 4.0.4 to 4.0.8 ([#65](https://github.com/oclif/plugin-test-core-v2/issues/65)) ([3c793e5](https://github.com/oclif/plugin-test-core-v2/commit/3c793e5e9a52254037a8cd902833480fe1b22b88))
+
+
+
 ## [0.2.14](https://github.com/oclif/plugin-test-core-v2/compare/0.2.13...0.2.14) (2024-06-13)
 
 
