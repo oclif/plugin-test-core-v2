@@ -18,7 +18,7 @@ $ npm install -g @oclif/plugin-test-core-v2
 $ corev2 COMMAND
 running command...
 $ corev2 (--version)
-@oclif/plugin-test-core-v2/0.2.18 linux-x64 node-v20.20.2
+@oclif/plugin-test-core-v2/0.2.19 linux-x64 node-v22.22.3
 $ corev2 --help [COMMAND]
 USAGE
   $ corev2 COMMAND
@@ -52,7 +52,7 @@ GLOBAL FLAGS
   --json  Format output as json.
 ```
 
-_See code: [src/commands/core-v2.ts](https://github.com/oclif/plugin-test-core-v2/blob/0.2.18/src/commands/core-v2.ts)_
+_See code: [src/commands/core-v2.ts](https://github.com/oclif/plugin-test-core-v2/blob/0.2.19/src/commands/core-v2.ts)_
 
 ## `corev2 help [COMMANDS]`
 
