@@ -1,3 +1,12 @@
+## [0.2.22](https://github.com/oclif/plugin-test-core-v2/compare/0.2.21...0.2.22) (2026-09-24)
+
+
+### Bug Fixes
+
+* resolving busted interoperability test (W-24099831) ([0535e0c](https://github.com/oclif/plugin-test-core-v2/commit/0535e0cc5ae804f502a161c85b4b29ba6f18e7b6))
+
+
+
 ## [0.2.21](https://github.com/oclif/plugin-test-core-v2/compare/0.2.20...0.2.21) (2026-09-24)
 
 
