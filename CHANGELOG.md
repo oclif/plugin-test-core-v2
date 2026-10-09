@@ -1,3 +1,12 @@
+## [0.2.26](https://github.com/oclif/plugin-test-core-v2/compare/0.2.25...0.2.26) (2026-10-09)
+
+
+### Bug Fixes
+
+* **deps:** bump browserslist from 4.24.4 to 4.29.1 ([#205](https://github.com/oclif/plugin-test-core-v2/issues/205)) ([203d8eb](https://github.com/oclif/plugin-test-core-v2/commit/203d8eb7425f3795991250cacd866b8ab1b383d4))
+
+
+
 ## [0.2.25](https://github.com/oclif/plugin-test-core-v2/compare/0.2.24...0.2.25) (2026-10-09)
 
 
